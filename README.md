@@ -61,17 +61,12 @@ Highlights counties with maximum CO₂ emissions.
 
 ---
 
-# 📷 Dashboard Preview
+# 🎥 Demo Video
 
-## Main Dashboard
-
-![Dashboard](dashboard.png)
-
----
-
+Watch here: 
+[Emission Dashboard.zip](https://github.com/user-attachments/files/27965467/Emission.Dashboard.zip)
 
 ---
-
 
 # 🎯 Learning Outcomes
 
